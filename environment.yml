@@ -1,0 +1,9 @@
+name: binderenv
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyterlab=2
